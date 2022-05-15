@@ -1,1 +1,1 @@
-# EPG_rekomend-cijas
+# EPG_rekomendacijas
